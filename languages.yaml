@@ -1,0 +1,39 @@
+- model: books.Language
+  pk: 1
+  fields:
+    name: English
+
+- model: books.Language
+  pk: 2
+  fields:
+    name: Spanish
+
+- model: books.Language
+  pk: 3
+  fields:
+    name: Chinese
+
+- model: books.Language
+  pk: 4
+  fields:
+    name: Japanese
+
+- model: books.Language
+  pk: 5
+  fields:
+    name: Hindi
+
+- model: books.Language
+  pk: 6
+  fields:
+    name: Tamil
+
+- model: books.Language
+  pk: 7
+  fields:
+    name: Marathi
+
+- model: books.Language
+  pk: 8
+  fields:
+    name: Portuguese

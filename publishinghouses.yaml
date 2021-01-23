@@ -1,0 +1,89 @@
+- model: books.PublishingHouse
+  pk: 1
+  fields:
+    name: Pearson
+    bio: Pearson Education is a British-owned education publishing and assessment service to schools and corporations, as well for students directly. Pearson is known for owning educational media brands including Addison–Wesley, Peachpit, Prentice-Hall, eCollege, Longman, Scott Foresman, and others. Pearson operates in over 70 countries, but 60% of its revenues come from the North American market. The company is headquartered in London, England, UK, and brings in USD 6.07 billion in revenues annually.
+    founded: 1844
+    headquarters: London, England, UK
+    revenue: USD 6.07 billion
+
+- model: books.PublishingHouse
+  pk: 2
+  fields:
+    name: RELX
+    bio: RELX, a British corporate group comprising companies that publish scientific, technical, and medical material, and legal textbooks; provide decision-making tools, and organize exhibitions. The book publisher operates in over 40 countries and serves customers in over 180 nations. The company is the result of the merger of Reed International, a British trade book and magazine publisher, and Elsevier, a Netherlands-based scientific publisher. RELX brought in revenues of USD 5.6 billion.
+    founded: 1993
+    headquarters: London, England, UK
+    revenue: USD 5.6 billion
+
+- model: books.PublishingHouse
+  pk: 3
+  fields:
+    name: Thomson Reuters
+    bio: Thomson Reuters is a Canadian multinational media conglomerate. Thomson Reuters was founded in Toronto, Ontario, Canada, where it is headquartered at 333 Bay Street. Thomson Reuters was ranked as Canada’s “leading corporate brand” in the 2010 Interbrand Best Canadian Brands ranking. Thomson Reuters has sponsored Canadian golf champion Mike Weir and the AT&T Williams Formula One team. It also sponsors Marketplace, a radio show from American Public Media. Thomson Reuters, among other media corporations, also donated hundreds of thousands of dollars to the Clinton Foundation.
+    founded: 2008
+    headquarters: Toronto, Ontario, Canada
+    revenue: USD 4.9 billion
+
+- model: books.PublishingHouse
+  pk: 4
+  fields:
+    name: Penguin Random House
+    bio: Penguin Random House, a multinational conglomerate publishing company formed in 2013 from the merger of Random House, owned by German media conglomerate Bertelsmann, and Penguin Group, owned by British publishing company Pearson plc. Penguin Random House comprises Penguin and Random House in the US, UK, Canada, Australia, New Zealand, Portugal, and India; Penguin in Brazil, Asia, and South Africa; Dorling Kindersley worldwide; and Random House’s companies in Spain, Hispanic America, and Germany. Penguin Random House is one of the big five publishers and generated USD 3.3 billion last year.
+    founded: 2017
+    headquarters: New York City, USA
+    revenue: USD 3.3 billion
+
+- model: books.PublishingHouse
+  pk: 5
+  fields:
+    name: Hachette Livre
+    bio: Hachette Livre, a French book publisher and one of the big 5 publishers in the world. Hachette Livre brought in annual revenues of USD 2.7 billion last year. Hachette has its headquarters in the Beaugrenelle district in the 15th arrondissement of Paris.
+    founded: 1826
+    headquarters: Paris, France
+    revenue: USD 2.7 billion
+
+- model: books.PublishingHouse
+  pk: 6
+  fields:
+    name: HarperCollins
+    bio: HarperCollins, one of the world’s largest publishing companies and is one of the Big Five English-language publishing companies, alongside Penguin Random House, Simon & Schuster, Hachette, and Macmillan. HarperCollins is headquartered in New York City and is a subsidiary of News Corp. Last year, HarperCollins generated annual revenues of USD 1.57 billion.
+    founded: 1989
+    headquarters: New York, USA
+    revenue: USD 1.57 billion
+
+- model: books.PublishingHouse
+  pk: 7
+  fields:
+    name: Macmillan Publishers
+    bio: Generating USD 1.4 billion in revenues last year, Macmillan Publishers is a British publishing company owned by the German Holtzbrinck Publishing Group.
+    founded: 1843
+    headquarters: New York City, USA
+    revenue: USD 1.4 billion
+
+- model: books.PublishingHouse
+  pk: 8
+  fields:
+    name: Bertelsmann
+    bio: Bertelsmann is a German private multinational conglomerate based in Gütersloh, North Rhine-Westphalia, Germany. Last year, Bertelsmann generated USD 4.24 billion in revenues, making it one of the world’s largest media companies. Bertelsmann’s principal divisions include the RTL Group, Penguin Random House, Gruner + Jahr, BMG, Arvato, the Bertelsmann Printing Group, the Bertelsmann Education Group, and Bertelsmann Investments.
+    founded: 1835
+    headquarters: Gütersloh, Germany
+    revenue: USD 1.4 billion
+
+- model: books.PublishingHouse
+  pk: 9
+  fields:
+    name: Scholastic Corporation
+    bio: Scholastic Corporation is an American multinational publishing, education and media company known for publishing, selling, and distributing books and educational materials for schools, teachers, parents, and children. Scholastic also publishes instructional reading and writing programs and offers professional learning and consultancy services for school improvement. Clifford the Big Red Dog serves as the official mascot for Scholastic.
+    founded: 1920
+    headquarters: New York, USA
+    revenue: USD 1.74 billion
+
+- model: books.PublishingHouse
+  pk: 10
+  fields:
+    name: McGraw-Hill Education
+    bio: McGraw-Hill Education, a learning science company and one of the “big three” educational publishers. Last year McGraw-Hill Education generated USD 1.71 billion in revenue. McGraw-Hill currently operates in 28 countries, has more than 5,000 employees globally, and offers products and services to over 135 countries in 60+ languages.
+    founded: 1888
+    headquarters: New York, USA 
+    revenue: USD 1.71 billion

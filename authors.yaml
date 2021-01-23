@@ -1,0 +1,71 @@
+- model: books.Author
+  pk: 1
+  fields:
+    name: William Shakespeare
+    bio: William Shakespeare (bapt. 26 April 1564 – 23 April 1616) was an English playwright, poet, and actor, widely regarded as the greatest writer in the English language and the world's greatest dramatist. He is often called England's national poet and the "Bard of Avon" (or simply "the Bard"). His extant works, including collaborations, consist of some 39 plays, 154 sonnets, two long narrative poems, and a few other verses, some of uncertain authorship. His plays have been translated into every major living language and are performed more often than those of any other playwright. They also continue to be studied and reinterpreted.
+
+- model: books.Author
+  pk: 2
+  fields:
+    name: J. K. Rowling
+    bio: Joanne Rowling (born 31 July 1965), better known by her pen name J. K. Rowling, is a British author and philanthropist. She is best known for writing the Harry Potter fantasy series, which has won multiple awards and sold more than 500 million copies, becoming the best-selling book series in history. The books are the basis of a popular film series, over which Rowling had overall approval on the scripts and was a producer on the final films. She also writes crime fiction under the pen name Robert Galbraith.
+
+- model: books.Author
+  pk: 3
+  fields:
+    name: Dr. Seuss
+    bio: Theodor Seuss "Ted" Geisel (March 2, 1904 – September 24, 1991) was an American children's author, political cartoonist, illustrator, poet, animator, and filmmaker. He is known for his work writing and illustrating more than 60 books under the pen name Dr. Seuss. His work includes many of the most popular children's books of all time, selling over 600 million copies and being translated into more than 20 languages by the time of his death.
+
+- model: books.Author
+  pk: 4
+  fields:
+    name: Leo Tolstoy
+    bio: Count Lev Nikolayevich Tolstoy (9 September 1828 – 20 November 1910), usually referred to in English as Leo Tolstoy, was a Russian writer who is regarded as one of the greatest authors of all time. He received nominations for the Nobel Prize in Literature every year from 1902 to 1906 and for the Nobel Peace Prize in 1901, 1902, and 1909. That he never won is a major controversy.
+
+- model: books.Author
+  pk: 5
+  fields:
+    name: R. L. Stine
+    bio: Robert Lawrence Stine (born October 8, 1943), sometimes known as Jovial Bob Stine and Eric Affabee, is an American novelist, short story writer, television producer, screenwriter, and executive editor. Stine has been referred to as the "Stephen King of children's literature" and is the author of hundreds of horror fiction novels, including the books in the Fear Street, Goosebumps, Rotten School, Mostly Ghostly, and The Nightmare Room series. Some of his other works include a Space Cadets trilogy, two Hark gamebooks, and dozens of joke books. As of 2008, Stine's books have sold over 400 million copies.
+
+- model: books.Author
+  pk: 6
+  fields:
+    name: Stephen King
+    bio: Stephen Edwin King (born September 21, 1947) is an American author of horror, supernatural fiction, suspense, crime, science-fiction, and fantasy novels. His books have sold more than 350 million copies, and many have been adapted into films, television series, miniseries, and comic books. King has published 61 novels, including seven under the pen name Richard Bachman, and five non-fiction books. He has also written approximately 200 short stories, most of which have been published in book collections.
+
+- model: books.Author
+  pk: 7
+  fields:
+    name: Paulo Coelho
+    bio: Paulo Coelho de Souza (born 24 August 1947) is a Brazilian lyricist and novelist, best known for his novel The Alchemist. In 2014, he uploaded his personal papers online to create a virtual Paulo Coelho Foundation.
+
+- model: books.Author
+  pk: 8
+  fields:
+    name: John Grisham
+    bio: John Ray Grisham Jr. (born February 8, 1955) is an American novelist, attorney, politician, and activist, best known for his popular legal thrillers. His books have been translated into 42 languages and published worldwide. Grisham graduated from Mississippi State University and received a J.D. degree from the University of Mississippi School of Law in 1981. He practiced criminal law for about a decade and served in the Mississippi House of Representatives from January 1984 to September 1990. His first novel, A Time to Kill, was published in June 1989, four years after he began writing it. According to Academy of Achievement his books have sold 300 million copies and he has written 28 consecutive number one bestsellers. A Galaxy British Book Awards winner, Grisham is one of only three authors to sell two million copies on a first printing, the other two being Tom Clancy and J. K. Rowling.
+
+- model: books.Author
+  pk: 9
+  fields:
+    name: C. S. Lewis
+    bio: Clive Staples Lewis (29 November 1898 – 22 November 1963) was a British writer and lay theologian. He held academic positions in English literature at both Oxford University (Magdalen College, 1925–1954) and Cambridge University (Magdalene College, 1954–1963). He is best known for his works of fiction, especially The Screwtape Letters, The Chronicles of Narnia, and The Space Trilogy, and for his non-fiction Christian apologetics, such as Mere Christianity, Miracles, and The Problem of Pain.
+
+- model: books.Author
+  pk: 10
+  fields:
+    name: Dan Brown
+    bio: Daniel Gerhard Brown (born June 22, 1964) is an American author best known for his thriller novels, including the Robert Langdon novels Angels & Demons (2000), The Da Vinci Code (2003), The Lost Symbol (2009), Inferno (2013) and Origin (2017). His novels are treasure hunts that usually take place over a period of 24 hours. They feature recurring themes of cryptography, art, and conspiracy theories. His books have been translated into 57 languages and, as of 2012, have sold over 200 million copies. Three of them, Angels & Demons, The Da Vinci Code, and Inferno, have been adapted into films.
+
+- model: books.Author
+  pk: 11
+  fields:
+    name: Jeffrey Archer
+    bio: Jeffrey Howard Archer, Baron Archer of Weston-Super-Mare (born 15 April 1940) is an English novelist, former politician, convicted perjurer, and peer of the realm. Before becoming an author, Archer was a Member of Parliament (1969–1974), but did not seek re-election after a financial scandal that left him almost bankrupt. He revived his fortunes as a best-selling novelist; his books have sold more than 320 million copies worldwide.
+
+- model: books.Author
+  pk: 12
+  fields:
+    name: J. R. R. Tolkien
+    bio: John Ronald Reuel Tolkien (3 January 1892 – 2 September 1973) was an English writer, poet, philologist, and academic, best known as the author of the high fantasy works The Hobbit and The Lord of the Rings. He served as the Rawlinson and Bosworth Professor of Anglo-Saxon and Fellow of Pembroke College, Oxford, from 1925 to 1945, Merton Professor of English Language and Literature, and Fellow of Merton College, Oxford, from 1945 to 1959. He was a close friend of C. S. Lewis—they were both members of the informal literary discussion group known as The Inklings. Tolkien was appointed a Commander of the Order of the British Empire by Queen Elizabeth II on 28 March 1972.
